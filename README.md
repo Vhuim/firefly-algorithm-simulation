@@ -34,7 +34,7 @@ Se diseñó un paisaje sintético multimodal compuesto por tres óptimos gaussia
 - **Correlación intensidad-distancia**: r = -0.72
 
 ## 🎥 Video Explicativo
-[Enlace al video de YouTube](https://youtu.be/3SSwJup2JWk?si=TwyoHe8kyu6JoVkF)
+[Enlace al video de YouTube] (https://youtu.be/3SSwJup2jWk?si=TwyoHe8kyu6IoVkF)
 
 ## 🚀 Cómo Ejecutar
 Abre el notebook en Google Colab:
@@ -49,4 +49,5 @@ Abre el notebook en Google Colab:
 Este proyecto se distribuye bajo licencia MIT.
 
 ---
+
 *Proyecto desarrollado para el curso de Algoritmos Evolutivos y Bioinspirados*
